@@ -2,7 +2,7 @@
   "Mining_item": [
     {
       "miner_for": "BTC",
-      "miner_img": "https://sunilmurphy.github.io/HydroMinerRentOnline/AntminerS19Pro.png",
+      "miner_img": "https://sunilmurphy.github.io/HydroMinerRentOnline/BitmainAntminerS21eXPHyd3U.png",
       "miner_name": "Bitmain Antminer S21e XP Hyd 3U",
       "miner_desc": "Bitmain Antminer S21e XP Hyd 3U is an ASIC miner designed for SHA-256 algorithm, specifically targeting BTC (Bitcoin) . It delivers a maximum hashrate of 860Th/s while consuming 11180W of power, resulting in an energy efficiency of 13j/Th.",
       "miner_status": "Coming soon",
@@ -19,7 +19,7 @@
     },
     {
       "miner_for": "BTC",
-      "miner_img": "https://sunilmurphy.github.io/HydroMinerRentOnline/AntminerS19Pro.png",
+      "miner_img": "https://sunilmurphy.github.io/HydroMinerRentOnline/BitmainAntminerS21XPHyd473Th.png",
       "miner_name": "Bitmain Antminer S21 XP Hyd (473Th)",
       "miner_desc": "Bitmain Antminer S21 XP Hyd (473Th) is an ASIC miner designed for SHA-256 algorithm, specifically targeting BTC (Bitcoin) . It delivers a maximum hashrate of 473Th/s while consuming 5676W of power, resulting in an energy efficiency of 12j/Th.",
       "miner_status": "In Stock",
