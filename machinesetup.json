@@ -3,83 +3,36 @@
     {
       "miner_for": "BTC",
       "miner_img": "https://sunilmurphy.github.io/HydroMinerRentOnline/AntminerS19Pro.png",
-      "miner_name": "Antminer S19 Pro",
-      "miner_speed": "110 TH/s",
-      "miner_power": "3250W",
-      "miner_price": "15000",
-      "miner_accesory_price": "500"
+      "miner_name": "Bitmain Antminer S21e XP Hyd 3U",
+      "miner_desc": "Bitmain Antminer S21e XP Hyd 3U is an ASIC miner designed for SHA-256 algorithm, specifically targeting BTC (Bitcoin) . It delivers a maximum hashrate of 860Th/s while consuming 11180W of power, resulting in an energy efficiency of 13j/Th.",
+      "miner_status": "Coming soon",
+      "miner_speed": "860Th/s",
+      "miner_release": "Jan 2025",
+      "miner_size": "900 x 486 x 132mm",
+      "miner_weight": "-",
+      "miner_fan": "-",
+      "miner_power": "11180W",
+      "miner_voltage": "380-415V",
+      "miner_temprature": "20 - 50 °C",
+      "miner_humidity": "10 - 90 %",
+      "miner_price": "19000"
     },
     {
       "miner_for": "BTC",
-      "miner_img": "https://sunilmurphy.github.io/HydroMinerRentOnline/WhatsminerM30S++.png",
-      "miner_name": "Whatsminer M30S++",
-      "miner_speed": "112 TH/s",
-      "miner_power": "3472W",
-      "miner_price": "14000",
-      "miner_accesory_price": "500"
-    },
-    {
-      "miner_for": "BTC",
-      "miner_img": "https://sunilmurphy.github.io/HydroMinerRentOnline/AvalonMiner1246.png",
-      "miner_name": "AvalonMiner 1246",
-      "miner_speed": "90 TH/s",
-      "miner_power": "3420W",
-      "miner_price": "10000",
-      "miner_accesory_price": "500"
-    },
-    {
-      "miner_for": "BTC",
-      "miner_img": "https://sunilmurphy.github.io/HydroMinerRentOnline/InnosiliconT3+57T.png",
-      "miner_name": "Innosilicon T3+ 57T",
-      "miner_speed": "57 TH/s",
-      "miner_power": "3300W",
-      "miner_price": "8000",
-      "miner_accesory_price": "500"
-    },
-    {
-      "miner_for": "BTC",
-      "miner_img": "https://sunilmurphy.github.io/HydroMinerRentOnline/MicroBTWhatsminerM20S.png",
-      "miner_name": "MicroBT Whatsminer M20S",
-      "miner_speed": "68 TH/s",
-      "miner_power": "3360W",
-      "miner_price": "8500",
-      "miner_accesory_price": "500"
-    },
-    {
-      "miner_for": "ETH",
-      "miner_img": "https://sunilmurphy.github.io/HydroMinerRentOnline/AntminerE9.png",
-      "miner_name": "Antminer E9",
-      "miner_speed": "9.05 TH/s",
-      "miner_power": "3425W",
-      "miner_price": "25000",
-      "miner_accesory_price": "500"
-    },
-    {
-      "miner_for": "LTC",
-      "miner_img": "https://sunilmurphy.github.io/HydroMinerRentOnline/BitmainAntminerL7.png",
-      "miner_name": "Bitmain Antminer L7",
-      "miner_speed": "9.05 TH/s",
-      "miner_power": "3425W",
-      "miner_price": "25000",
-      "miner_accesory_price": "500"
-    },
-    {
-      "miner_for": "LTC",
-      "miner_img": "https://sunilmurphy.github.io/HydroMinerRentOnline/GoldshellLT5.png",
-      "miner_name": "Goldshell LT5",
-      "miner_speed": "2.05 TH/s",
-      "miner_power": "2080W",
-      "miner_price": "8000",
-      "miner_accesory_price": "500"
-    },
-    {
-      "miner_for": "LTC",
-      "miner_img": "https://sunilmurphy.github.io/HydroMinerRentOnline/InnosiliconA6+LTCMaster.png",
-      "miner_name": "Innosilicon A6+ LTC Master",
-      "miner_speed": "2.2 GH/s",
-      "miner_power": "1500W",
-      "miner_price": "4000",
-      "miner_accesory_price": "400"
+      "miner_img": "https://sunilmurphy.github.io/HydroMinerRentOnline/AntminerS19Pro.png",
+      "miner_name": "Bitmain Antminer S21 XP Hyd (473Th)",
+      "miner_desc": "Bitmain Antminer S21 XP Hyd (473Th) is an ASIC miner designed for SHA-256 algorithm, specifically targeting BTC (Bitcoin) . It delivers a maximum hashrate of 473Th/s while consuming 5676W of power, resulting in an energy efficiency of 12j/Th.",
+      "miner_status": "In Stock",
+      "miner_speed": "473Th/s",
+      "miner_release": "Nov 2024",
+      "miner_size": "410 x 170 x 209mm",
+      "miner_weight": "-",
+      "miner_fan": "-",
+      "miner_power": "5676W",
+      "miner_voltage": "-",
+      "miner_temprature": "5 - 45 °C",
+      "miner_humidity": "5 - 95 %",
+      "miner_price": "10169"
     }
   ],
   "Currency": [
