@@ -15,7 +15,11 @@
       "miner_voltage": "380-415V",
       "miner_temprature": "20 - 50 °C",
       "miner_humidity": "10 - 90 %",
-      "miner_price": "19000"
+      "miner_price": "19000",
+      "miner_incomeDaily": "56",
+      "miner_productkey_1Month": "",
+      "miner_productkey_6Month": "",
+      "miner_productkey_12Month": ""
     },
     {
       "miner_for": "BTC",
@@ -32,7 +36,11 @@
       "miner_voltage": "-",
       "miner_temprature": "5 - 45 °C",
       "miner_humidity": "5 - 95 %",
-      "miner_price": "10169"
+      "miner_price": "10169",
+      "miner_incomeDaily": "36",
+      "miner_productkey_1Month": "",
+      "miner_productkey_6Month": "",
+      "miner_productkey_12Month": ""
     },
     {
       "miner_for": "BTC",
@@ -49,7 +57,11 @@
       "miner_voltage": "-",
       "miner_temprature": "-",
       "miner_humidity": "-",
-      "miner_price": "7025"
+      "miner_price": "7025",
+      "miner_incomeDaily": "16",
+      "miner_productkey_1Month": "",
+      "miner_productkey_6Month": "",
+      "miner_productkey_12Month": ""
     },
     {
       "miner_for": "BTC",
@@ -66,7 +78,11 @@
       "miner_voltage": "-",
       "miner_temprature": "5 - 45 °C",
       "miner_humidity": "5 - 95 %",
-      "miner_price": "11200"
+      "miner_price": "11200",
+      "miner_incomeDaily": "28",
+      "miner_productkey_1Month": "",
+      "miner_productkey_6Month": "",
+      "miner_productkey_12Month": ""
     },
     {
       "miner_for": "ALPH",
@@ -83,7 +99,11 @@
       "miner_voltage": "220-270",
       "miner_temprature": "5 - 45 °C",
       "miner_humidity": "5 - 95 %",
-      "miner_price": "9000"
+      "miner_price": "9000",
+      "miner_incomeDaily": "41",
+      "miner_productkey_1Month": "",
+      "miner_productkey_6Month": "",
+      "miner_productkey_12Month": ""
     },
     {
       "miner_for": "ALPH",
@@ -100,7 +120,11 @@
       "miner_voltage": "220V",
       "miner_temprature": "5 - 40 °C",
       "miner_humidity": "10 - 90 %",
-      "miner_price": "3449"
+      "miner_price": "3449",
+      "miner_incomeDaily": "5",
+      "miner_productkey_1Month": "",
+      "miner_productkey_6Month": "",
+      "miner_productkey_12Month": ""
     },
     {
       "miner_for": "CKB",
@@ -117,7 +141,11 @@
       "miner_voltage": "-",
       "miner_temprature": "5 - 45 °C",
       "miner_humidity": "5 - 95 %",
-      "miner_price": "2490"
+      "miner_price": "2490",
+      "miner_incomeDaily": "6",
+      "miner_productkey_1Month": "",
+      "miner_productkey_6Month": "",
+      "miner_productkey_12Month": ""
     },
     {
       "miner_for": "DOGE",
@@ -134,7 +162,11 @@
       "miner_voltage": "AC380-480V",
       "miner_temprature": "5 - 45 °C",
       "miner_humidity": "5 - 95 %",
-      "miner_price": "14000"
+      "miner_price": "14000",
+      "miner_incomeDaily": "58",
+      "miner_productkey_1Month": "",
+      "miner_productkey_6Month": "",
+      "miner_productkey_12Month": ""
     },
     {
       "miner_for": "DOGE",
@@ -151,7 +183,11 @@
       "miner_voltage": "-",
       "miner_temprature": "5 - 45 °C",
       "miner_humidity": "5 - 95 %",
-      "miner_price": "8199"
+      "miner_price": "8199",
+      "miner_incomeDaily": "36",
+      "miner_productkey_1Month": "",
+      "miner_productkey_6Month": "",
+      "miner_productkey_12Month": ""
     },
     {
       "miner_for": "LTC",
@@ -168,7 +204,11 @@
       "miner_voltage": "AC380-480V",
       "miner_temprature": "5 - 45 °C",
       "miner_humidity": "5 - 95 %",
-      "miner_price": "14000"
+      "miner_price": "14000",
+      "miner_incomeDaily": "58",
+      "miner_productkey_1Month": "",
+      "miner_productkey_6Month": "",
+      "miner_productkey_12Month": ""
     },
     {
       "miner_for": "LTC",
@@ -185,7 +225,11 @@
       "miner_voltage": "-",
       "miner_temprature": "5 - 45 °C",
       "miner_humidity": "5 - 95 %",
-      "miner_price": "8199"
+      "miner_price": "8199",
+      "miner_incomeDaily": "36",
+      "miner_productkey_1Month": "",
+      "miner_productkey_6Month": "",
+      "miner_productkey_12Month": ""
     }
   ],
   "Currency": [
