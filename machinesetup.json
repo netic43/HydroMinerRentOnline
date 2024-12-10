@@ -64,7 +64,7 @@
       "miner_accesory_price": "1500"
     },
     {
-      "miner_for": "LTE",
+      "miner_for": "LTC",
       "miner_img": "",
       "miner_name": "Bitmain Antminer L7",
       "miner_speed": "9.05 TH/s",
@@ -73,7 +73,7 @@
       "miner_accesory_price": "500"
     },
     {
-      "miner_for": "LTE",
+      "miner_for": "LTC",
       "miner_img": "",
       "miner_name": "Goldshell LT5",
       "miner_speed": "2.05 TH/s",
@@ -82,7 +82,7 @@
       "miner_accesory_price": "500"
     },
     {
-      "miner_for": "LTE",
+      "miner_for": "LTC",
       "miner_img": "",
       "miner_name": "Innosilicon A6+ LTC Master",
       "miner_speed": "2.2 GH/s",
