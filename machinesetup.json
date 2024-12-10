@@ -1,0 +1,117 @@
+{
+  "Mining_item": [
+    {
+      "miner_for": "BTC",
+      "miner_img": "",
+      "miner_name": "Antminer S19 Pro",
+      "miner_speed": "110 TH/s",
+      "miner_power": "3250W",
+      "miner_price": "15000",
+      "miner_accesory_price": "500"
+    },
+    {
+      "miner_for": "BTC",
+      "miner_img": "",
+      "miner_name": "Whatsminer M30S++",
+      "miner_speed": "112 TH/s",
+      "miner_power": "3472W",
+      "miner_price": "14000",
+      "miner_accesory_price": "500"
+    },
+    {
+      "miner_for": "BTC",
+      "miner_img": "",
+      "miner_name": "AvalonMiner 1246",
+      "miner_speed": "90 TH/s",
+      "miner_power": "3420W",
+      "miner_price": "10000",
+      "miner_accesory_price": "500"
+    },
+    {
+      "miner_for": "BTC",
+      "miner_img": "",
+      "miner_name": "Innosilicon T3+ 57T",
+      "miner_speed": "57 TH/s",
+      "miner_power": "3300W",
+      "miner_price": "8000",
+      "miner_accesory_price": "500"
+    },
+    {
+      "miner_for": "BTC",
+      "miner_img": "",
+      "miner_name": "MicroBT Whatsminer M20S",
+      "miner_speed": "68 TH/s",
+      "miner_power": "3360W",
+      "miner_price": "8500",
+      "miner_accesory_price": "500"
+    },
+    {
+      "miner_for": "ETH",
+      "miner_img": "",
+      "miner_name": "Antminer E9",
+      "miner_speed": "9.05 TH/s",
+      "miner_power": "3425W",
+      "miner_price": "25000",
+      "miner_accesory_price": "500"
+    },
+    {
+      "miner_for": "ETH",
+      "miner_img": "",
+      "miner_name": "Hive OS (Rigs with GPUs)",
+      "miner_speed": "200 MH/s",
+      "miner_power": "2500W",
+      "miner_price": "15000",
+      "miner_accesory_price": "1500"
+    },
+    {
+      "miner_for": "LTE",
+      "miner_img": "",
+      "miner_name": "Bitmain Antminer L7",
+      "miner_speed": "9.05 TH/s",
+      "miner_power": "3425W",
+      "miner_price": "25000",
+      "miner_accesory_price": "500"
+    },
+    {
+      "miner_for": "LTE",
+      "miner_img": "",
+      "miner_name": "Goldshell LT5",
+      "miner_speed": "2.05 TH/s",
+      "miner_power": "2080W",
+      "miner_price": "8000",
+      "miner_accesory_price": "500"
+    },
+    {
+      "miner_for": "LTE",
+      "miner_img": "",
+      "miner_name": "Innosilicon A6+ LTC Master",
+      "miner_speed": "2.2 GH/s",
+      "miner_power": "1500W",
+      "miner_price": "4000",
+      "miner_accesory_price": "400"
+    }
+  ],
+  "Currency": [
+    {
+      "name": "BTC",
+      "current_price": "81000",
+      "total_hashrate": "350000000",
+      "block_reward": "6.25",
+      "block_reward_perday": "900"
+    },
+    {
+      "name": "ETH",
+      "current_price": "3200",
+      "total_hashrate": "1200000",
+      "block_reward": "2",
+      "block_reward_perday": "13000"
+    },
+    {
+      "name": "LTC",
+      "current_price": "1500",
+      "total_hashrate": "500",
+      "block_reward": "12.5",
+      "block_reward_perday": "1800"
+    }
+  ]
+}
