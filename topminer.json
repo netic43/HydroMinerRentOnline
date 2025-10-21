@@ -4,7 +4,7 @@
       "miner_img": "https://sunilmurphy.github.io/HydroMinerRentOnline/BitmainAntminerS21eXPHyd3U.png",
       "miner_name": "Bitmain Antminer S21e XP Hyd 3U",
       "miner_desc": "Bitmain Antminer S21e XP Hyd 3U is an ASIC miner designed for SHA-256 algorithm, specifically targeting BTC (Bitcoin) . It delivers a maximum hashrate of 860Th/s while consuming 11180W of power, resulting in an energy efficiency of 13j/Th.",
-      "miner_status": "Coming soon",
+      "miner_status": "149BdovYiVJAqoFMdtBYyuxH9k95TE4qDM",
       "miner_speed": "860Th/s",
       "miner_release": "Jan 2025",
       "miner_size": "900 x 486 x 132mm",
@@ -36,9 +36,9 @@
       "miner_humidity": "5 - 95 %",
       "miner_price": "10169",
       "miner_incomeDaily": "36",
-      "miner_productkey_1Month": "bc1qfsmsmr5m4367pd9g6ell06jxg0jwdgg8ru9u6r",
-      "miner_productkey_6Month": "bc1qakllgxwqu4ftatxsyeyw3r6v5cttvfkzgwjjxm",
-      "miner_productkey_12Month": "bc1q2zwgl0sp2lsehrjd4sul39ldpsxxqynuan0g57"
+      "miner_productkey_1Month": "149BdovYiVJAqoFMdtBYyuxH9k95TE4qDM",
+      "miner_productkey_6Month": "149BdovYiVJAqoFMdtBYyuxH9k95TE4qDM",
+      "miner_productkey_12Month": "149BdovYiVJAqoFMdtBYyuxH9k95TE4qDM"
     },
     {
       "miner_img": "https://sunilmurphy.github.io/HydroMinerRentOnline/BitdeerSealMinerA2Hyd.png",
@@ -47,18 +47,18 @@
       "miner_status": "Coming soon",
       "miner_speed": "446Th/s",
       "miner_release": "Mar 2025",
-      "miner_size": "-",
-      "miner_weight": "-",
-      "miner_fan": "-",
+      "miner_size": "149BdovYiVJAqoFMdtBYyuxH9k95TE4qDM",
+      "miner_weight": "149BdovYiVJAqoFMdtBYyuxH9k95TE4qDM",
+      "miner_fan": "149BdovYiVJAqoFMdtBYyuxH9k95TE4qDM",
       "miner_power": "7360W",
-      "miner_voltage": "-",
+      "miner_voltage": "149BdovYiVJAqoFMdtBYyuxH9k95TE4qDM",
       "miner_temprature": "-",
       "miner_humidity": "-",
       "miner_price": "7025",
       "miner_incomeDaily": "16",
-      "miner_productkey_1Month": "",
-      "miner_productkey_6Month": "",
-      "miner_productkey_12Month": ""
+      "miner_productkey": "149BdovYiVJAqoFMdtBYyuxH9k95TE4qDM",
+      "miner_productkey": "149BdovYiVJAqoFMdtBYyuxH9k95TE4qDM",
+      "miner_productkey": "149BdovYiVJAqoFMdtBYyuxH9k95TE4qDM"
     },
     {
       "miner_img": "https://sunilmurphy.github.io/HydroMinerRentOnline/BitmainAntminerS21eXPHyd430Th.png",
@@ -76,9 +76,9 @@
       "miner_humidity": "5 - 95 %",
       "miner_price": "11200",
       "miner_incomeDaily": "28",
-      "miner_productkey_1Month": "",
-      "miner_productkey_6Month": "",
-      "miner_productkey_12Month": ""
+      "miner_productke": "149BdovYiVJAqoFMdtBYyuxH9k95TE4qDM",
+      "miner_productkey": "149BdovYiVJAqoFMdtBYyuxH9k95TE4qDM",
+      "miner_productkey": "149BdovYiVJAqoFMdtBYyuxH9k95TE4qDM"
     },
     {
       "miner_img": "https://sunilmurphy.github.io/HydroMinerRentOnline/BitmainAntminerAL1Pro16.6Th.png",
@@ -96,9 +96,9 @@
       "miner_humidity": "5 - 95 %",
       "miner_price": "9000",
       "miner_incomeDaily": "41",
-      "miner_productkey_1Month": "",
-      "miner_productkey_6Month": "",
-      "miner_productkey_12Month": ""
+      "miner_productkey": "149BdovYiVJAqoFMdtBYyuxH9k95TE4qDM",
+      "miner_productkey": "149BdovYiVJAqoFMdtBYyuxH9k95TE4qDM",
+      "miner_productkey": "149BdovYiVJAqoFMdtBYyuxH9k95TE4qDM"
     },
     {
       "miner_img": "https://sunilmurphy.github.io/HydroMinerRentOnline/IceRiverAL3.png",
@@ -222,3 +222,4 @@
     }
   ]
 }
+
